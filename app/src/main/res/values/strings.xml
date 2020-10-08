@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tasker</string>
+    <string name="not_registered">Not registered?</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="log_in">Log in</string>
+    <string name="huawei_id">Huawei ID</string>
+    <string name="password">Password</string>
+</resources>

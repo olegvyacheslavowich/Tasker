@@ -1,0 +1,30 @@
+{
+	"agcgw":{
+		"backurl":"connect-drru.dbankcloud.cn",
+		"url":"connect-drru.hispace.hicloud.com"
+	},
+	"client":{
+		"cp_id":"1340007000010140900",
+		"product_id":"736430079244657848",
+		"client_id":"466582668679578688",
+		"client_secret":"E1E34E07C2649E8205A6F885B7B457E8143E61E453B7E71A5258F03D4E1ED2DB",
+		"app_id":"103008687",
+		"package_name":"ru.karpenko.huawei.tasker",
+		"api_key":"CgB6e3x97HlCKCW9O4qbaeJc9EtsrNg6lIuVzI5ZQB0J/uYffG1KKO9FINboYk9oPiN1JPGroISymnxuZhuwiqny"
+	},
+	"service":{
+		"analytics":{
+			"collector_url":"datacollector-drru.dt.hicloud.com,datacollector-drru.dt.dbankcloud.cn",
+			"resource_id":"p1",
+			"channel_id":""
+		},
+		"cloudstorage":{
+			"storage_url":"https://agc-storage-drru.platform.dbankcloud.cn"
+		},
+		"ml":{
+			"mlservice_url":"ml-api-drru.ai.dbankcloud.com,ml-api-drru.ai.dbankcloud.cn"
+		}
+	},
+	"region":"RU",
+	"configuration_version":"1.0"
+}
