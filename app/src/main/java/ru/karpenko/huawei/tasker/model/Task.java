@@ -1,9 +1,20 @@
 package ru.karpenko.huawei.tasker.model;
 
+import com.google.gson.annotations.Expose;
+import com.google.gson.annotations.SerializedName;
+
 public class Task extends Entity{
 
+    @SerializedName("title")
+    @Expose
     private String title;
+
+    @SerializedName("date")
+    @Expose
     private String completeDate;
+
+    @SerializedName("user")
+    @Expose
     private String responsible;
 
     public Task(String title, String completeDate, String responsible) {
